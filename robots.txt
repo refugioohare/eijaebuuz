@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://saebeimool.dropdrone.io/sitemap.xml
